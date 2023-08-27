@@ -71,3 +71,5 @@ while square <= n:
     i += 1
 
 print(arr)
+
+#update for merge
